@@ -1,0 +1,164 @@
+Company,SFR,Payload (kg),Launch Cost ($M),Price ($/kg),Funding ($M),Launch Class,Orbit Altitude,Tech Type,Country,HQ Location
+Arianespace/Avio,9,"20,000",170.000,"8,500",Public,"Medium, Heavy",LEO,Rocket,Italy,Colleferro
+Black Sky Aerospace,9,350,0.600,"1,714",,Small,Suborbital,Rocket,Australia,"Browns Plains, Queensland"
+Blue Origin,9,"45,000",,,,"Tourism, Small, Heavy",LEO,Rocket,USA,"Kent, WA"
+CNIM Air Space,9,"2,700",,,Public,"Small, Medium",Suborbital,Balloon,France,Ayguesvives
+Mitsubishi Heavy Industries,9,"19,000",112.500,"5,921",Public,Medium,LEO,Rocket,Japan,"Tokyo, Tokyo"
+Northrop Grumman,9,"8,000",80.000,"10,000",Public,"Small, Medium",LEO,Rocket,USA,"Falls Church, VA"
+Raptor Aerospace,9,16,,,,Small,Suborbital,Rocket,United Kingdom,"Badersfield, England"
+Rocket Lab,9,300,4.900,"16,333",257.31,Small,LEO,Rocket,USA,"Huntington Beach, CA"
+SpaceX,9,"63,800",90.000,"1,411",6098,"Heavy, Super Heavy",LEO,Rocket,USA,"Hawthorne, CA"
+Swedish Space Corp,9,"2,000",,,,Small,Suborbital,"Balloon, Rocket",Sweden,Solna
+United Launch Alliance,9,"17,800",99.000,"5,562",Joint Venture,"Medium, Heavy",LEO,Rocket,USA,"Centennial, CO"
+UP Aerospace,9,36,,,0.72,Small,Suborbital,Rocket,USA,"Highlands Ranch, CO"
+Virgin Orbit/VOX Space,9,500,12.000,"24,000",,Small,LEO,"Plane, Rocket",USA,"Long Beach, CA"
+World View,9,"4,500",,,48.68,"Small, Medium",Suborbital,Balloon,USA,"Tucson, AZ"
+Astra Space,8,204,2.500,"12,255",130.00,Small,LEO,Rocket,USA,"Alameda, CA"
+iSpace,8,300,5.000,"16,667",275.00,Small,LEO,Rocket,China,Beijing
+Sierra Nevada,8,"5,000",,,,Medium,LEO,Spaceplane,USA,"Sparks, NV"
+Virgin Galactic/The Spaceship Company,8,372,1.500,"4,032",Public,Tourism,Suborbital,Spaceplane,USA,"Mojave, CA"
+ABL Space Systems,7,"1,350",12.000,"8,889",219.00,Small,LEO,Rocket,USA,"El Segundo, CA"
+Firefly Aerospace,7,"1,000",15.000,"15,000",23.16,Small,LEO,Rocket,USA,"Cedar Park, TX"
+Galactic Energy,7,"4,000",,"14,400",43.00,"Small, Medium",LEO,Rocket,China,-
+Landspace,7,"4,000",,,361.30,"Small, Medium",LEO,Rocket,China,Beijing
+Relativity Space,7,"1,250",10.000,"8,000",684.54,Small,LEO,Rocket,USA,"Los Angeles, CA"
+Strato,7,,,,,Small,Suborbital,Balloon,Ukraine,Kiev
+Exos Aerospace,6,100,,,9.09,Small,Suborbital,Rocket,USA,"Caddo Mills, TX"
+One Space,6,200,3.200,"16,000",116,Small,LEO,Rocket,China,Beijing
+PLD Space,6,300,,,27.14,Small,LEO,Rocket,Spain,Elche
+Sea Launch/S7,6,"6,160",,,,Medium,GTO,Rocket,Russia,-
+Skyrora,6,500,12.600,"25,200",4.85,Small,LEO,Rocket,UK,"Edinburgh, Scotland"
+Space Forest,6,50,,,,Small,Suborbital,Rocket,Poland,Gdynia
+Zero 2 Infinity,6,,,,13.83,Tourism,Suborbital,Balloon,Spain,Barcelona
+Dawn Aerospace,5,100,,,4.54,Small,LEO,Spaceplane,Netherlands,Delft
+Equatorial Space Systems,5,180,4.500,"25,000",0.50,Small,LEO,Rocket,Singapore,Singapore
+Gilmour Space,5,305,7.000,"22,951",17.62,Small,LEO,Rocket,Australia,"Pimpama, Queensland"
+HyImpulse,5,500,7.780,"15,560",9.70,Small,LEO,Rocket,Germany,Kochen
+Interstellar Technologies,5,100,0.440,"4,400",0.35,Small,Suborbital,Rocket,Japan,Hokkaido
+Isar Aerospace Technologies,5,"1,200",,"10,833",109.99,Small,LEO,Rocket,Germany,Ottobrun
+Launcher,5,773,10.000,"12,937",,Small,LEO,Rocket,USA,"Hawthorne, CA"
+LinkSpace,5,200,4.500,"22,500",,Small,LEO,Rocket,China,Beijing
+Maritime Launch Services,5,"5,000",45.000,"9,000",,Medium,LEO,Rocket,Canada,"Halifax, Nova Scotia"
+Orbex,5,220,,,39.53,Small,LEO,Rocket,United Kingdom,"London, England"
+PD Aerospace,5,"6,000",,,6.75,"Tourism, Medium",Suborbital,Spaceplane,Japan,"Nagoya, Aichi"
+Perigee Aerospace,5,65,,"30,769",13.86,Small,LEO,Rocket,South Korea,Daejeon
+Reaction Engines,5,"17,000",,860,95.37,Medium,LEO,Spaceplane,United Kingdom,"Abingdon, England"
+Space Perspective,5,0,,,7.00,Tourism,Suborbital,Balloon,USA,-
+Starchaser,5,186,,,,Small,Suborbital,Rocket,United Kingdom,"Hyde, England"
+Sugarhouse Aerospace,5,50,0.250,"5,000",,Small,Suborbital,Rocket,USA,"Springville, UT"
+Vaya Space,5,"1,000",9.000,"9,000",9.00,Small,LEO,Rocket,USA,"Cocoa, FL"
+Zephalto,5,0,,,,Tourism,Suborbital,Balloon,France,Le Pouget
+Aevum,4,100,,,,Small,LEO,"Plane, Rocket",USA,"Huntsville, AL"
+bluShift Aerospace,4,30,,,,Small,LEO,Rocket,USA,"Brunswick, ME"
+CosmoCourse,4,434,1.500,,,Tourism,Suborbital,Rocket,Russia,Moscow
+Earth to Sky,4,600,4.500,"7,500",5.25,Small,LEO,Rocket,USA,"Huntsville, AL"
+Green Launch,4,5,,,0.50,Small,LEO,Other,USA,"Edmond, OK"
+Microcosm,4,160,4.200,"26,250",-,Small,LEO,Rocket,USA,"Torrance, CA"
+OrbitX,4,200,4.800,"24,000",0.05,Small,LEO,Rocket,Philippines,Quezon City
+Pipeline2Space (by HyperSciences),4,10,1.000,"100,000",-,Small,LEO,Other,USA,"Spokane, WA"
+Pythom,4,100,1.200,"12,000",0.75,Small,LEO,Rocket,USA,"Bishop, CA"
+Rocket Factory Augsburg (by OHB),4,"1,100",,,,Small,LEO,Rocket,Germany,Augsburg
+Skyroot Aerospace,4,720,,,1.50,Small,LEO,Rocket,India,"Hyderabad, Telangana"
+Space Darts,4,100,0.100,"1,000",15.00,Small,LEO,Rocket,Russia,Moscow
+Space Engine Systems,4,"5,500",,,22.00,Medium,Lunar,Spaceplane,Canada,"Edmonton, Alberta"
+Space Transportation (Lingkong Tianxing),4,"1,000",,,18.00,Small,LEO,"Rocket, Spaceplane",China,Beijing
+Space Vector,4,0,,,,Small,LEO,Rocket,USA,"Chatsworth, CA"
+Space Walker,4,100,,,4.98,Small,Suborbital,Spaceplane,Japan,"Minato, Tokyo"
+SpinLaunch,4,100,0.500,"5,000",77.94,Small,LEO,Other,USA,"Long Beach, CA"
+Stofiel Aerospace,4,250,5.000,"20,000",,Small,LEO,"Balloon, Rocket",USA,"St. Louis, MO"
+Stoke Space Technologies,4,500,,,9.10,Small,LEO,Rocket,USA,"Seattle, WA"
+Stratolaunch,4,0,,,,,LEO,Spaceplane,USA,"Seattle, WA"
+TLON Space,4,25,,,,Small,LEO,Rocket,Argentina,Buenos Aires
+VSAT Aerospace,4,100,3.000,"30,000",,Small,LEO,Rocket,Brazil,"Santo André, São Paulo"
+WAGNER Star Industries,4,"1,500",3.000,"2,000",,Small,LEO,Spaceplane,USA,"St Petersburg, FL"
+X-Bow Launch Systems,4,,,,,Small,LEO,Rocket,USA,"Huntsville, AL"
+0-G Launch,3,,,"25,000",,Small,LEO,"Plane, Rocket",USA,"Washington, D.C."
+Acrux Aerospace Technologies,3,25,1.000,"40,000",0.05,Small,LEO,Rocket,Brazil,"Iguassu Falls, Paraná"
+Advanced Rockets Corp,3,"25,000",4.100,164,0.07,Heavy,LEO,Rocket,USA,"Los Angeles, CA"
+ARCA Space Corporation,3,100,1.000,"10,000",,Small,LEO,Rocket,USA,"Las Cruces, NM"
+Bagaveev,3,10,0.250,"25,000",0.96,Small,LEO,Rocket,USA,"Half Moon Bay, CA"
+Bellatrix Aerospace,3,150,2.000,"13,333",3.00,Small,LEO,Rocket,India,"Bangalore, Karnataka"
+Beyond Earth,3,30,0.900,"30,000",,Small,LEO,Rocket,USA,"Menlo Park, CA"
+C6 Launch Systems,3,30,,,,Small,LEO,Rocket,Canada,"Toronto, Ontario"
+Deep Blue Aerospace,3,"4,500",,,3.00,"Small, Medium",LEO,Rocket,China,Beijing
+Exodus Space Corp,3,"1,200",,,0.30,Small,LEO,Spaceplane,USA,"Denver, CO"
+Gloyer-Taylor Labs,3,0,,300,,,LEO,Rocket,USA,"Tullahoma, TN"
+Hudson Space Systems,3,80,0.760,"9,500",0.10,Small,Suborbital,Rocket,USA,"Hoboken, NJ"
+Hypersonix,3,150,,,,Small,LEO,"Rocket, Other",Australia,"Brisbane, Queensland"
+Interorbital Systems,3,40,0.500,"12,500",,Small,LEO,Rocket,USA,"Mojave, CA"
+iRocket,3,"1,500",,,,Small,LEO,Rocket,USA,"New Hyde Park, NY"
+JP Aerospace,3,0,,,,,Suborbital,Balloon,USA,"Rancho Cordova, CA"
+Laros,3,150,3.000,"20,000",,Small,LEO,Rocket,Russia,Moscow
+Pangea Aerospace,3,150,4.540,"30,267",1.10,Small,LEO,Rocket,Spain,Barcelona
+Phantom Space,3,450,,,5.00,Small,LEO,Rocket,United States,"Tucson, AZ"
+Phoenix Launch Systems,3,31,0.750,"34,000",0.50,Small,LEO,Rocket,USA,"Las Vegas, NV"
+Reaction Dynamics,3,150,,"30,000",1.15,Small,LEO,Rocket,Canada,"St. Laurent, Quebec"
+Ripple Aerospace,3,"2,600",,,,Medium,LEO,Rocket,Norway,Kristiansand
+RocketStar,3,300,6.000,"20,000",,Small,LEO,Rocket,USA,"New York, NY"
+Smallspark Space Systems,3,400,8.100,"20,250",,Small,LEO,Rocket,United kingdom,"Cardiff, Wales"
+Space One (by Canon),3,240,,,Joint Venture,Small,LEO,Rocket,Japan,"Tokyo, Tokyo"
+SpaceRyde,3,0,,,0.15,Small,LEO,"Balloon, Rocket",Canada,"Toronto, Ontario"
+Thor Launch Systems (by 8 Rivers),3,0,,,,,LEO,Other,USA,"Durham, NC"
+TiSPACE,3,390,,,,Small,LEO,Rocket,Taiwan,Chunan
+Venture Orbital Systems,3,80,,,0.91,Small,LEO,Rocket,France,Paris
+Agnikul Cosmos,2,100,1.200,"12,000",3.58,Small,LEO,Rocket,India,"Chennai, Tamil Nadu"
+B2Space,2,150,,,,Small,LEO,"Balloon, Rocket",United kingdom,"Bristol, England"
+Black Arrow Space Technologies,2,500,10.000,"20,000",0.10,Small,LEO,Rocket,United Kingdom,"Swindon, England"
+Celestia Aerospace,2,16,0.200,"12,500",,Small,LEO,"Plane, Rocket",Spain,Barcelona
+CloudIX,2,22,,,,Small,LEO,"Balloon, Rocket",USA,"Hayward, CA"
+CubeCab,2,5,0.250,"50,000",,Small,LEO,Rocket,USA,"Mountain View, CA"
+EOS-X,2,0,,,,Tourism,Suborbital,Balloon,Spain,Madrid
+ESC Aerospace,2,0,,50,,,LEO,Other,USA,"Orlando, FL"
+Eutropia,2,25,0.125,"5,000",,Small,Suborbital,Rocket,Australia,"Melbourne, Victoria"
+Fore Dynamics,2,200,,,,Small,LEO,Rocket,USA,"Placentia, CA"
+Independence-X Aerospace,2,200,4.500,"22,500",,Small,LEO,Rocket,Malaysia,Kuala Lumpur
+INNOSPACE,2,500,0.000,"25,000",1.50,Small,LEO,Rocket,South Korea,Sejong City
+IO Aircraft,2,"63,500",28.000,441,,"Medium, Heavy",LEO,Spaceplane,USA,"Ankeny, IA"
+LIA Aerospace,2,150,,"25,000",,Small,LEO,Rocket,Argentina,-
+LongShot,2,0,,,,Small,LEO,Other,USA,-
+New Rocket Technologies,2,500,9.000,"18,000",,Small,LEO,Rocket,Russia,Moscow
+Odyne Space,2,150,,,,Small,LEO,Rocket,USA,"Portland, OR"
+POLARIS,2,"1,150",,,,Small,LEO,Spaceplane,Germany,-
+S-Motor,2,160,,,,Small,LEO,Rocket,China,Beijing
+Space Ops,2,10,,,,Small,LEO,Rocket,Australia,"Redfern, New South Wales"
+SpaceHorizon,2,"1,200",,,,Small,LEO,Rocket,Canada,"Ottawa, Ontario"
+STAR Orbitals,2,150,,,,Small,LEO,Rocket,India,"Surat, Gujarat"
+T-Minus,2,1,,,,Small,Suborbital,Rocket,Netherlands,Delft
+Tachyon Aerospace,2,,,,,,LEO,Other,United Kingdom,"London, England"
+VALT Enterprises,2,25,1.700,"68,000",,Small,LEO,Rocket,USA,"Sanford, ME"
+Vector,2,200,,,,Small,LEO,Rocket,USA,"Tucson, AZ"
+Vogue Aerospace,2,500,2.000,"4,000",0.10,Small,LEO,Rocket,USA,"Naples, FL"
+Wave Motion Launch,2,"45,360",,,,Heavy,LEO,Other,USA,"Seattle, WA"
+AvalonSpace,1,,,,,,,Rocket,United Kingdom,"Bristol, England"
+CubeSat Solutions,1,50,,,,Small,Suborbital,Rocket,Thailand,Chiang Mai
+Dark,1,200,5.000,"25,000",-,Small,LEO,"Plane, Rocket",France,-
+Eclipse Orbital,1,"1,350",10.000,"7,407",,Small,LEO,Rocket,USA,"Reno, NV"
+Enter Space,1,"3,000",,"1,000",,Medium,LEO,Spaceplane,Australia,"Sydney, New South Wales"
+Fenix Space,1,,,,,,LEO,"Plane, Rocket",USA,"San Bernardino, CA"
+Forever Space,1,,0.050,,,Small,Lunar,Other,USA,"San Francisco, CA"
+Hybrid Propulsion,1,250,4.000,"16,000",,Small,LEO,Rocket,France,Talence
+HyperMach Aerospace Holdings,1,"45,360",,,,Heavy,LEO,Spaceplane,United States,"Los Angeles, CA"
+Jarmyn Enterprise Space,1,50,,,,Small,LEO,Rocket,Australia,"Mawson Lakes, South Australia"
+Launch Tech Space,1,,,,,Small,LEO,Other,USA,"Pasadena, CA"
+Marcom,1,"1,000",8.000,"8,000",,Small,LEO,Rocket,South Africa,Johannesburg
+New Ascent,1,,,,0.11,,,Other,USA,"Annapolis, MD"
+OmSpace Rocket and Exploration,1,,,,,Small,LEO,Rocket,India,"Bharuch, Gujarat"
+Project S3,1,250,,,,Small,,Spaceplane,Croatia,Zagreb
+Rocketplane Global,1,"3,000",,,,Medium,LEO,Spaceplane,USA,"Green Bay, WI"
+Rocketsan,1,100,,,,Small,LEO,Rocket,Turkey,Ankara
+Seres Space Exploration Technology,1,"20,000",,,,Heavy,LEO,Rocket,China,Beijing
+ShipInSpace,1,"20,000",0.000,"2,000",,Heavy,LEO,Rocket,United Kingdom,"Witney, England"
+Spaceborne,1,,,,,,LEO,Rocket,Uzbekistan,Tashkent
+SpaceTrek,1,240,,,,Small,LEO,Rocket,China,Beijing
+Stratobooster,1,,,,,Small,LEO,"Balloon, Rocket",United Kingdom,"Middlesbrough, England"
+Suborbitality,1,75,,"5,000",,Small,Suborbital,Rocket,Czech Republic,Prague
+Trans Space Travels,1,,,,,,Suborbital,Spaceplane,Germany,Bayreuth
+Deywoss One,0,200,,,,Small,LEO,Spaceplane,USA,"Merepoint, ME"
+Halo Aerospace,0,,,,,,Suborbital,"Balloon, Rocket",USA,"West Palm Beach, FL"
+LEO Launcher,0,680,,,,Small,LEO,"Plane, Rocket",USA,"Houston, TX"
+Orbspace,0,,,,,Tourism,Suborbital,Rocket,Japan,"Tsukuba, Ibaraki"
+Space One,0,,,,,,LEO,Other,Luxembourg,Luxembourg
+Space Railway Corporation,0,,,,,,LEO,Other,USA,"Fort Worth, TX"
+The Rocket & Satellite Company,0,,,,,,LEO,Rocket,Pakistan,Karachi
+Timewarp Space,0,150,,,,Small,LEO,Rocket,India,"Bangalore, Karnataka"
+United Frontiers,0,500,,"2,000",-,Small,LEO,Rocket,USA,"Port Canaveral, FL"

@@ -1,0 +1,163 @@
+ID,Company,Tech Type,Country,HQ Location
+JQLW34,0-G Launch,"Plane, Rocket",USA,"Washington, D.C."
+CWLNNS,ABL Space Systems,Rocket,USA,"El Segundo, CA"
+6PD999,Acrux Aerospace Technologies,Rocket,Brazil,"Iguassu Falls, Paraná"
+B8ETN0,Advanced Rockets Corp,Rocket,USA,"Los Angeles, CA"
+47SMJ5,Aevum,"Plane, Rocket",USA,"Huntsville, AL"
+FUYSS9,Agnikul Cosmos,Rocket,India,"Chennai, Tamil Nadu"
+58FSTJ,ARCA Space Corporation,Rocket,USA,"Las Cruces, NM"
+CA06Q8,Arianespace/Avio,Rocket,Italy,Colleferro
+GOQEM1,Astra Space,Rocket,USA,"Alameda, CA"
+NB0BE0,AvalonSpace,Rocket,United Kingdom,"Bristol, England"
+V6JNH2,B2Space,"Balloon, Rocket",United Kingdom,"Bristol, England"
+WOKBS5,Bagaveev,Rocket,USA,"Half Moon Bay, CA"
+KDNFT0,Bellatrix Aerospace,Rocket,India,"Bangalore, Karnataka"
+DT369D,Beyond Earth,Rocket,USA,"Menlo Park, CA"
+LMFK8S,Black Arrow Space Technologies,Rocket,United Kingdom,"Swindon, England"
+RWUJ6G,Black Sky Aerospace,Rocket,Australia,"Browns Plains, Queensland"
+RPJGF6,Blue Origin,Rocket,USA,"Kent, WA"
+Y0M21A,bluShift Aerospace,Rocket,USA,"Brunswick, ME"
+YICCEW,C6 Launch Systems,Rocket,Canada,"Toronto, Ontario"
+BZK6TT,Celestia Aerospace,"Plane, Rocket",Spain,Barcelona
+QTNJU5,CloudIX,"Balloon, Rocket",USA,"Hayward, CA"
+B239EB,CNIM Air Space,Balloon,France,Ayguesvives
+X7PPDM,CosmoCourse,Rocket,Russia,Moscow
+QWAIH0,CubeCab,Rocket,USA,"Mountain View, CA"
+K7X7O1,CubeSat Solutions,Rocket,Thailand,Chiang Mai
+8Z19ZX,Dark,"Plane, Rocket",France,-
+41YBN9,Dawn Aerospace,Spaceplane,Netherlands,Delft
+W8I2JO,Deep Blue Aerospace,Rocket,China,Beijing
+WFYSLD,Deywoss One,Spaceplane,USA,"Merepoint, ME"
+96VT4L,Earth to Sky,Rocket,USA,"Huntsville, AL"
+0I8U0K,Eclipse Orbital,Rocket,USA,"Reno, NV"
+1H013K,Enter Space,Spaceplane,Australia,"Sydney, New South Wales"
+27COBW,EOS-X,Balloon,Spain,Madrid
+8J0M61,Equatorial Space Systems,Rocket,Singapore,Singapore
+140SJ0,ESC Aerospace,Other,USA,"Orlando, FL"
+8K5T2G,Eutropia,Rocket,Australia,"Melbourne, Victoria"
+4C2YU7,Exodus Space Corp,Spaceplane,USA,"Denver, CO"
+R0BADA,Exos Aerospace,Rocket,USA,"Caddo Mills, TX"
+MOUSUW,Fenix Space,"Plane, Rocket",USA,"San Bernardino, CA"
+EGBVW6,Firefly Aerospace,Rocket,USA,"Cedar Park, TX"
+ZOAC2D,Fore Dynamics,Rocket,USA,"Placentia, CA"
+B0OOOF,Forever Space,Other,USA,"San Francisco, CA"
+163PSY,Galactic Energy,Rocket,China,-
+65A8K2,Gilmour Space,Rocket,Australia,"Pimpama, Queensland"
+X2RMKY,Gloyer-Taylor Labs,Rocket,USA,"Tullahoma, TN"
+54G4DS,Green Launch,Other,USA,"Edmond, OK"
+JGQ966,Halo Aerospace,"Balloon, Rocket",USA,"West Palm Beach, FL"
+6AB2XN,Hudson Space Systems,Rocket,USA,"Hoboken, NJ"
+Y1NHU8,Hybrid Propulsion,Rocket,france,Talence
+NME77O,HyImpulse,Rocket,germany ,Kochen
+R5NS4A,HyperMach Aerospace Holdings,Spaceplane,United States,"Los Angeles, CA"
+RYGG77,Hypersonix,"Rocket, Other",Australia,"Brisbane, Queensland"
+OQBH32,Independence-X Aerospace,Rocket,Malaysia,Kuala Lumpur
+DZHF4M,INNOSPACE,Rocket,South Korea,Sejong City
+OWT6IK,Interorbital Systems,Rocket,USA,"Mojave, CA"
+9UW2NY,Interstellar Technologies,Rocket,Japan,Hokkaido
+G00URE,IO Aircraft,Spaceplane,USA,"Ankeny, IA"
+RZE16U,iRocket,Rocket,USA,"New Hyde Park, NY"
+MTHKDL,Isar Aerospace Technologies,Rocket,Germany,Ottobrun
+YXQFXI,iSpace,Rocket,China,Beijing
+7ZSLNL,Jarmyn Enterprise Space,Rocket,Australia,"Mawson Lakes, South Australia"
+JJWXS6,JP Aerospace,Balloon,USA,"Rancho Cordova, CA"
+BUYFCG,Landspace,Rocket,China,Beijing
+JULBWX,Laros,Rocket,Russia,Moscow
+0AUSO1,Launch Tech Space,Other,USA,"Pasadena, CA"
+J0K6II,Launcher,Rocket,USA,"Hawthorne, CA"
+OK31U7,LEO Launcher,"Plane, Rocket",USA,"Houston, TX"
+CFOBY9,LIA Aerospace,Rocket,Argentina,-
+L1FSG6,LinkSpace,Rocket,China,Beijing
+5M856P,LongShot,Other,USA,-
+60WI58,Marcom,Rocket,South Africa,Johannesburg
+V5VUTB,Microcosm,Rocket,USA,"Torrance, CA"
+WVL9BJ,Mitsubishi Heavy Industries,Rocket,Japan,"Tokyo, Tokyo"
+HKYB3D,New Ascent,Other,USA,"Annapolis, MD"
+NFT160,New Rocket Technologies,Rocket,Russia,Moscow
+KFCLDU,Northrop Grumman,Rocket,USA,"Falls Church, VA"
+C0LVOB,Odyne Space,Rocket,USA,"Portland, OR"
+41SWCT,OmSpace Rocket and Exploration,Rocket,India,"Bharuch, Gujarat"
+WQ3YJM,One Space,Rocket,China,Beijing
+DEBJDP,Orbex,Rocket,United Kingdom,"London, England"
+9IJL2G,OrbitX,Rocket,Philippines,Quezon City
+E9DXL4,Orbspace,Rocket,Japan,"Tsukuba, Ibaraki"
+HMRTTJ,Pangea Aerospace,Rocket,Spain,Barcelona
+PRNCVG,PD Aerospace,Rocket,Japan,"Nagoya, Aichi"
+YL1VWH,Perigee Aerospace,Rocket,South Korea,Daejeon
+NQHPBN,Phantom Space,Rocket,United States,"Tucson, AZ"
+8548WM,Phoenix Launch Systems,Rocket,USA ,"Las Vegas, NV"
+E5AZSV,Pipeline2Space (by HyperSciences),Other,USA ,"Spokane, WA"
+ORGQK2,PLD Space,Rocket,Spain,Elche
+YX5DYL,POLARIS,Spaceplane,germany ,-
+NZFO69,Project S3,Spaceplane,Croatia,Zagreb
+IBWAYY,Pythom,Rocket,USA,"Bishop, CA"
+8Z4SNH,Raptor Aerospace,Rocket,United Kingdom,"Badersfield, England"
+BRLAW7,Reaction Dynamics,Rocket,Canada ,"St. Laurent, Quebec"
+ENY48O,Reaction Engines,Spaceplane,United Kingdom,"Abingdon, England"
+N6ZMQZ,Relativity Space,Rocket,USA,"Los Angeles, CA"
+AX3EAN,Ripple Aerospace,Rocket,Norway,Kristiansand
+1MF3VX,Rocket Factory Augsburg (by OHB),Rocket,germany,Augsburg
+GHT2SE,Rocket Lab,Rocket,USA,"Huntington Beach, CA"
+OHXDSF,Rocketplane Global,Spaceplane,USA,"Green Bay, WI"
+F3YKDL,Rocketsan,Rocket,Turkey,Ankara
+GZJMRS,RocketStar,Rocket,USA,"New York, NY"
+TVNYX7,S-Motor,Rocket,China,Beijing
+VAJRUF,Sea Launch/S7,Rocket,Russia,-
+YDEJ7Y,Seres Space Exploration Technology,Rocket,China,Beijing
+871I8R,ShipInSpace,Rocket,United Kingdom,"Witney, England"
+C7JM7J,Sierra Nevada,Spaceplane,USA,"Sparks, NV"
+W0N1LB,Skyroot Aerospace,Rocket,India,"Hyderabad, Telangana"
+OPUO4H,Skyrora,Rocket,United Kingdom ,"Edinburgh, Scotland"
+BFONVD,Smallspark Space Systems,Rocket,United Kingdom ,"Cardiff, Wales"
+HRX4B5,Space Darts,Rocket,Russia,Moscow
+CLIBNX,Space Engine Systems,Spaceplane,Canada,"Edmonton, Alberta"
+LL0OL2,Space Forest,Rocket,Poland,Gdynia
+6BFCR7,Space One,Other,Luxembourg,Luxembourg
+QEJI1O,Space One (by Canon),Rocket,Japan,"Tokyo, Tokyo"
+X1T6EH,Space Ops,Rocket,Australia,"Redfern, New South Wales"
+A8MTXA,Space Perspective,Balloon,USA,-
+SYD5CV,Space Railway Corporation,Other,USA,"Fort Worth, TX"
+YXDOE0,Space Transportation (Lingkong Tianxing),"Rocket, Spaceplane",China,Beijing
+JL0R6B,Space Vector,Rocket,USA,"Chatsworth, CA"
+8XSKME,Space Walker,Spaceplane,Japan,"Minato, Tokyo"
+53RPRQ,Spaceborne,Rocket,Uzbekistan,Tashkent
+MRIP3J,SpaceHorizon,Rocket,Canada ,"Ottawa, Ontario"
+FUANTI,SpaceRyde,"Balloon, Rocket",Canada ,"Toronto, Ontario"
+8MR2V2,SpaceTrek,Rocket,China,Beijing
+ZFD30R,SpaceX,Rocket,USA ,"Hawthorne, CA"
+9SEH0R,SpinLaunch,Other,USA,"Long Beach, CA"
+8JGG3O,STAR Orbitals,Rocket,India,"Surat, Gujarat"
+KGDFN8,Starchaser,Rocket,United Kingdom,"Hyde, England"
+67FNYB,Stofiel Aerospace,"Balloon, Rocket",USA,"St. Louis, MO"
+LOYECI,Stoke Space Technologies,Rocket,USA,"Seattle, WA"
+UQD7EJ,Strato,Balloon,Ukraine,Kiev
+558SV6,Stratobooster,"Balloon, Rocket",United Kingdom,"Middlesbrough, England"
+H55DP6,Stratolaunch,Spaceplane,USA,"Seattle, WA"
+C9LR0X,Suborbitality,Rocket,Czech Republic,Prague
+JKCTLK,Sugarhouse Aerospace,Rocket,USA,"Springville, UT"
+QAURA8,Swedish Space Corp,"Balloon, Rocket",Sweden,Solna
+HWKOOL,T-Minus,Rocket,Netherlands,Delft
+7CPNRM,Tachyon Aerospace,Other,United Kingdom,"London, England"
+94HGFX,The Rocket & Satellite Company,Rocket,Pakistan,Karachi
+4TZF67,Thor Launch Systems (by 8 Rivers),Other,USA,"Durham, NC"
+TPICVQ,Timewarp Space,Rocket,India,"Bangalore, Karnataka"
+H8VZ60,TiSPACE,Rocket,Taiwan,Chunan
+XRKF4S,TLON Space,Rocket,Argentina,Buenos Aires
+WXVBYQ,Trans Space Travels,Spaceplane,Germany,Bayreuth
+3ERLYJ,United Frontiers,Rocket,USA,"Port Canaveral, FL"
+G2IUJT,United Launch Alliance,Rocket,USA,"Centennial, CO"
+6ATTZA,UP Aerospace,Rocket,USA,"Highlands Ranch, CO"
+DSN4ZK,VALT Enterprises,Rocket,USA,"Sanford, ME"
+EODRIL,Vaya Space,Rocket,USA,"Cocoa, FL"
+BMBGYQ,Vector,Rocket,USA,"Tucson, AZ"
+E2DHSR,Venture Orbital Systems,Rocket,france,Paris
+GA2YIU,Virgin Galactic/The Spaceship Company,Spaceplane,USA,"Mojave, CA"
+GTFN9H,Virgin Orbit/VOX Space,"Plane, Rocket",USA,"Long Beach, CA"
+JSPS1L,Vogue Aerospace,Rocket,USA,"Naples, FL"
+5C86XB,VSAT Aerospace,Rocket,Brazil,"Santo André, São Paulo"
+H10SF3,WAGNER Star Industries,Spaceplane,USA,"St Petersburg, FL"
+BVPBO7,Wave Motion Launch,Other,USA,"Seattle, WA"
+DUATKY,World View,Balloon,USA,"Tucson, AZ"
+5O2FTK,X-Bow Launch Systems,Rocket,USA,"Huntsville, AL"
+B8VY7O,Zephalto,Balloon,France,Le Pouget
+6A5TOX,Zero 2 Infinity,Balloon,Spain,Barcelona
